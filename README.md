@@ -1,6 +1,9 @@
 # Cleansing-Rain
 Genre - Chiptune
 
+Song Name: Cleansing Rain
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=Yvn_uAgWINU&index=33&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
